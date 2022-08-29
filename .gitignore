@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__
+jupyter
+*.pt
+dataset/data/raw_data/*.txt
+*.mat
